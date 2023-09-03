@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="et_roll_number">Roll Number</string>
+    <string name="et_name">Name</string>
+    <string name="et_cgpa">CGPA</string>
+    <string name="tv_degree">DEGREE</string>
+    <string-array name="sp_degrees">
+        <item>BSIT</item>
+        <item>BSCS</item>
+        <item>BSSE</item>
+        <item>BSDS</item>
+    </string-array>
+    <string name="tv_gender">Gender</string>
+    <string name="rb_male">Male</string>
+    <string name="rb_female">Female</string>
+    <string name="tv_dob">DOB</string>
+    <string name="tv_career_interest">Career Interest</string>
+    <string name="cb_academia">Academia</string>
+    <string name="cb_industry">Industry</string>
+    <string name="cb_business">Business</string>
+    <string name="btn_save_record">Save record</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="btn_add_record">Add record</string>
+    <string name="btn_show_records">Show Record</string>
+    <string name="btn_back_to_main">Back To Main Menu</string>
+    <string name="title_activity_student_layout">student_layout</string>
+    <string name="btn_edit_record">Edit</string>
+    <string name="btn_delete_record">Delete</string>
+</resources>
